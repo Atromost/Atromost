@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💫 About Me:
 🔭 Working on a Game  
 🎮 Game Developer (Godot)  
@@ -20,7 +18,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ujjwal_2449)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Atromost)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/Atromost)
-
 ---
 
 # 💻 Tech Stack:
@@ -38,10 +35,10 @@
 ---
 
 # 📊 GitHub Stats:
-<img src="https://streak-stats.demolab.com?user=Atromost&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Atromost&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atromost&theme=tokyonight&hide_border=true&layout=compact" />
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Atromost&theme=tokyonight&hide_border=true">
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Atromost&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atromost&theme=tokyonight&hide_border=true&layout=compact">
+</p>
