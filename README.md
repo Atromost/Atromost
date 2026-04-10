@@ -1,65 +1,47 @@
-# 🌌 Anmol | Game Developer
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Game+Developer;Godot+User;UI%2FUX+Designer;Building+Tantrix"/>
-</p>
-
----
-
-## 💫 About Me
-- 🔭 Working on a Game  
-- 🎮 Game Developer (Godot)  
-- 🎨 UI/UX + Blender  
+# 💫 About Me:
+🔭 Working on a Game  
+🎮 Game Developer (Godot)  
+🎨 Aspiring Graphic Designer & Blender 3D Artist  
+⚙️ Tools: Godot, Blender, Photopea  
+🧠 Focus: Game Mechanics, UI/UX, 3D Design  
+🌌 Interested in Space & Creative Technologies  
+📚 Continuously Learning & Building Projects  
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kindujjwal.bsky.social)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kindujjwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-srivastava-535125346)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Anmolity)
 
-<p align="center">
-  <a href="https://bsky.app/profile/kindujjwal.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/kindujjwal">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/anmol-srivastava-535125346">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Ujjwal_2449">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ujjwal_2449)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Atromost)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/Atromost)
 
 ---
 
-## ⚙️ Tech Stack
+# 💻 Tech Stack:
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photopea](https://img.shields.io/badge/Photopea-18A497?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,react,tailwind,mysql,sqlite,git,github,blender,godot"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atromost&show_icons=true&theme=transparent&cache_seconds=86400"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 
 ---
 
-## 🔥 Contribution Graph (Real)
+# 📊 GitHub Stats:
+<img src="https://streak-stats.demolab.com?user=Atromost&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Atromost/Atromost/output/github-contribution-grid-snake.svg"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Atromost&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atromost&theme=tokyonight&hide_border=true&layout=compact" />
 
-## 🧠 Projects
-- 🧠 Tantrix → All-in-one tools  
-- 🎮 Indie Games (Godot)  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-</p>
+</div>
