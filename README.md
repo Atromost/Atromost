@@ -36,9 +36,17 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Atromost&theme=tokyonight&hide_border=true">
+
+<img src="https://streak-stats.demolab.com?user=Atromost&theme=tokyonight&hide_border=true" />
+
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Atromost&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atromost&theme=tokyonight" />
+
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atromost&theme=tokyonight&hide_border=true&layout=compact">
+
+<img src="https://github.com/Atromost/Atromost/blob/output/github-contribution-grid-snake.svg" />
+
 </p>
+
+
