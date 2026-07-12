@@ -36,7 +36,6 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Photopea](https://img.shields.io/badge/Photopea-18A497?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
